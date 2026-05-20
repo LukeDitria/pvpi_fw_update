@@ -77,3 +77,8 @@ PVPi,D,1.14
 
 **`Error: libgpiod: unable to open chip`** *(Pi 5 only)*
 - Run `gpiodetect` to confirm chip number, try changing `-chip 4` to `-chip 0`
+
+# Firmware Versions
+### V1.14 (20/05/2026)
+Fixes input voltage read for voltages > 32V
+Fixes low-voltage shutdown/alarm set clashes
