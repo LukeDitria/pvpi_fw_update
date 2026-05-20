@@ -81,5 +81,5 @@ PVPi,D,1.14
 
 # Firmware Versions
 ### V1.14 (20/05/2026)
-Fixes input voltage read for voltages > 32V
-Fixes low-voltage shutdown/alarm set clashes
+- Fixes input voltage read for voltages > 32V
+- Fixes low-voltage shutdown/alarm set clashes
