@@ -12,10 +12,8 @@ PV Pi programming header (top to bottom):
 │  SWDIO   │  → Pi GPIO 21
 │  3.3V    │  → Not Connected (NC)
 └──────────┘
-<img width="930" height="789" alt="image" src="https://github.com/user-attachments/assets/2f38cab2-550f-42f3-bd0b-77077d2e8e66" />
-
 ```
-
+<img width="930" height="789" alt="image" src="https://github.com/user-attachments/assets/2f38cab2-550f-42f3-bd0b-77077d2e8e66" />
 ---
 
 ## 2. Install OpenOCD
