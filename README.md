@@ -2,7 +2,7 @@
 
 ## 1. Wiring
 Install programming header J6 (2.54mm 4-pin header)<br>
-With your PV Pi mounted on top of your Raspberry Pi<br>
+With your PV Pi mounted on top of your Raspberry Pi make the following connectedions<br>
 <br>
 PV Pi programming header (top to bottom):
 ```
@@ -14,7 +14,8 @@ PV Pi programming header (top to bottom):
 └──────────┘
 ```
 <img width="930" height="789" alt="image" src="https://github.com/user-attachments/assets/2f38cab2-550f-42f3-bd0b-77077d2e8e66" />
----
+
+### Jumper wires only need to be connected while flashing new FW, they can be removed afterwards<br> 
 
 ## 2. Install OpenOCD
 
