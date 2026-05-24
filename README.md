@@ -26,7 +26,16 @@ sudo apt install openocd
 
 ---
 
-## 3. Flash
+## 3. Clone repo
+
+```bash
+git clone https://github.com/LukeDitria/pvpi_fw_update.git
+cd pvpi_fw_update
+```
+
+---
+
+## 4. Flash
 
 Run the command for your Pi model updating the Firmware .bin file with the latest version:
 
@@ -53,7 +62,7 @@ shutdown command invoked
 
 ---
 
-## 4. Confirm
+## 5. Confirm
 If using the PV Pi manager, then, in the pvpi_manager directory run:
 ```
 uv run pvpi get-version
